@@ -1,3 +1,3 @@
 # LogisticR
 
-Jupiter notebook for logistic regression 
+Jupiter notebook for demonstrating logistic regression 
